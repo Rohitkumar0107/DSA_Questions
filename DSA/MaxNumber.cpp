@@ -22,4 +22,6 @@ int main()
     int arr[size] = {1, 2, 3, 5, 6, 8, 9, 10, 7, 4};
 
     findmax(arr, size);
+
+    return 0;
 }

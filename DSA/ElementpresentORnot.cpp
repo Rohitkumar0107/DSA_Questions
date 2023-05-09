@@ -38,4 +38,6 @@ int main()
     {
         cout << "Not Present" << endl;
     }
+
+    return 0;
 }
